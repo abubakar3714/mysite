@@ -586,6 +586,9 @@ section .title::after{
 .skills-content .right .ms::before{
     width: 80%;
 }
+.skills-content .right .github::before{
+    width: 80%;
+}
 
 
 /* projects section styling */
